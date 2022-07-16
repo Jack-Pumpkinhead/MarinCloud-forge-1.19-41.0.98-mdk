@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "facing=up": { "model": "marincloud:block/sistine_fibel", "x": 270 },
+        "facing=down": { "model": "marincloud:block/sistine_fibel", "x": 90 },
+        "facing=north": { "model": "marincloud:block/sistine_fibel" },
+        "facing=south": { "model": "marincloud:block/sistine_fibel", "y": 180 },
+        "facing=west": { "model": "marincloud:block/sistine_fibel", "y": 270 },
+        "facing=east": { "model": "marincloud:block/sistine_fibel", "y": 90 }
+    }
+}
+

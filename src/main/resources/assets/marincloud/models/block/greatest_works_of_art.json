@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "marincloud:blocks/greatest_works_of_art"
+    }
+}

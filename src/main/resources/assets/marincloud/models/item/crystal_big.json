@@ -1,0 +1,15 @@
+{
+    "loader": "forge:obj",
+    "flip-v": true,
+    "model": "marincloud:models/item/crystal_big.obj",
+    "textures": {
+        "texture0": "marincloud:items/crystal_big",
+        "particle": "marincloud:items/crystal_big"
+    },
+    "display": {
+        "gui": {
+            "rotation": [0, 0, 0],
+            "scale": [0.1, 0.1, 0.1]
+        }
+    }
+}

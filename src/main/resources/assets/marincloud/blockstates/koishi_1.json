@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "facing=up": { "model": "marincloud:block/koishi_1", "x": 270 },
+        "facing=down": { "model": "marincloud:block/koishi_1", "x": 90 },
+        "facing=north": { "model": "marincloud:block/koishi_1" },
+        "facing=south": { "model": "marincloud:block/koishi_1", "y": 180 },
+        "facing=west": { "model": "marincloud:block/koishi_1", "y": 270 },
+        "facing=east": { "model": "marincloud:block/koishi_1", "y": 90 }
+    }
+}
+

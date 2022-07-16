@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "marincloud:block/doyo", "x": 270 },
+        "facing=down": { "model": "marincloud:block/doyo", "x": 90 },
+        "facing=north": { "model": "marincloud:block/doyo" },
+        "facing=south": { "model": "marincloud:block/doyo", "y": 180 },
+        "facing=west": { "model": "marincloud:block/doyo", "y": 270 },
+        "facing=east": { "model": "marincloud:block/doyo", "y": 90 }
+    }
+}

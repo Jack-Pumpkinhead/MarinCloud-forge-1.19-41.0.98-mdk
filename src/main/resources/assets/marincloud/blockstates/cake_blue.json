@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "bites=0": {
+      "model": "marincloud:block/cake_blue"
+    },
+    "bites=1": {
+      "model": "marincloud:block/cake_slice1_blue"
+    },
+    "bites=2": {
+      "model": "marincloud:block/cake_slice2_blue"
+    },
+    "bites=3": {
+      "model": "marincloud:block/cake_slice3_blue"
+    },
+    "bites=4": {
+      "model": "marincloud:block/cake_slice4_blue"
+    },
+    "bites=5": {
+      "model": "marincloud:block/cake_slice5_blue"
+    },
+    "bites=6": {
+      "model": "marincloud:block/cake_slice6_blue"
+    }
+  }
+}

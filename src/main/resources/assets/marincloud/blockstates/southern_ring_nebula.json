@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "marincloud:block/southern_ring_nebula", "x": 270 },
+        "facing=down": { "model": "marincloud:block/southern_ring_nebula", "x": 90 },
+        "facing=north": { "model": "marincloud:block/southern_ring_nebula" },
+        "facing=south": { "model": "marincloud:block/southern_ring_nebula", "y": 180 },
+        "facing=west": { "model": "marincloud:block/southern_ring_nebula", "y": 270 },
+        "facing=east": { "model": "marincloud:block/southern_ring_nebula", "y": 90 }
+    }
+}

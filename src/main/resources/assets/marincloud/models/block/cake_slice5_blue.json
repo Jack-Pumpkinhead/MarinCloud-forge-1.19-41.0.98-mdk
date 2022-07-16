@@ -1,0 +1,22 @@
+{
+    "textures": {
+        "particle": "marincloud:blocks/cake_side_blue",
+        "bottom": "marincloud:blocks/cake_bottom_blue",
+        "top": "marincloud:blocks/cake_top_blue",
+        "side": "marincloud:blocks/cake_side_blue",
+        "inside": "marincloud:blocks/cake_inner_blue"
+    },
+    "elements": [
+        {   "from": [ 11, 0, 1 ],
+            "to": [ 15, 8, 15 ],
+            "faces": {
+                "down":  { "texture": "#bottom", "cullface": "down" },
+                "up":    { "texture": "#top" },
+                "north": { "texture": "#side" },
+                "south": { "texture": "#side" },
+                "west":  { "texture": "#inside" },
+                "east":  { "texture": "#side" }
+            }
+        }
+    ]
+}

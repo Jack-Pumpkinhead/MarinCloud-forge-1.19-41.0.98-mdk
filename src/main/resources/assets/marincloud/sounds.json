@@ -1,0 +1,44 @@
+{
+    "item.catch_sun": {
+        "subtitle": "marincloud.sound.catch_sun",
+        "sounds": [ "marincloud:catch_sun" ]
+    },
+    "item.diamond.spawn": {
+        "subtitle": "marincloud.sound.diamond.spawn",
+        "sounds": ["marincloud:chime"]
+    },
+    "item.chomp": {
+        "subtitle": "marincloud.sound.chomp",
+        "sounds": [ "marincloud:chomp" ]
+    },
+    "item.chomp2": {
+        "subtitle": "marincloud.sound.chomp2",
+        "sounds": [ "marincloud:chomp2" ]
+    },
+    "item.chompsoft": {
+        "subtitle": "marincloud.sound.chompsoft",
+        "sounds": [ "marincloud:chompsoft" ]
+    },
+    "item.coin": {
+        "subtitle": "marincloud.sound.coin",
+        "sounds": [ "marincloud:coin" ]
+    },
+    "item.crazydaveshort1": {
+        "subtitle": "marincloud.sound.crazydaveshort1",
+        "sounds": [ "marincloud:crazydaveshort1" ]
+    },
+    "item.crazydaveshort2": {
+        "subtitle": "marincloud.sound.crazydaveshort2",
+        "sounds": [ "marincloud:crazydaveshort2" ]
+    },
+    "item.crazydaveshort3": {
+        "subtitle": "marincloud.sound.crazydaveshort3",
+        "sounds": [ "marincloud:crazydaveshort3" ]
+    },
+    "item.diamond": {
+        "subtitle": "marincloud.sound.diamond",
+        "sounds": [ "marincloud:diamond" ]
+    }
+
+
+}

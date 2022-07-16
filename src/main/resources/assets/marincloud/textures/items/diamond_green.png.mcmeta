@@ -1,0 +1,13 @@
+{
+  "animation":{
+    "width":68,
+    "height":68,
+    "frames": [
+             0, 1, 2, 3, 4, 5,
+             {
+                 "index": 6,
+                 "time": 140
+                    }
+          ]
+  }
+}

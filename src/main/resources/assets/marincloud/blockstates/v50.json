@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "marincloud:block/v50", "x": 270 },
+        "facing=down": { "model": "marincloud:block/v50", "x": 90 },
+        "facing=north": { "model": "marincloud:block/v50" },
+        "facing=south": { "model": "marincloud:block/v50", "y": 180 },
+        "facing=west": { "model": "marincloud:block/v50", "y": 270 },
+        "facing=east": { "model": "marincloud:block/v50", "y": 90 }
+    }
+}

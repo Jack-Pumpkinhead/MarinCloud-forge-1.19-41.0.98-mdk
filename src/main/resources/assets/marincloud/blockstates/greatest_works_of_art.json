@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up": { "model": "marincloud:block/greatest_works_of_art", "x": 270 },
+        "facing=down": { "model": "marincloud:block/greatest_works_of_art", "x": 90 },
+        "facing=north": { "model": "marincloud:block/greatest_works_of_art" },
+        "facing=south": { "model": "marincloud:block/greatest_works_of_art", "y": 180 },
+        "facing=west": { "model": "marincloud:block/greatest_works_of_art", "y": 270 },
+        "facing=east": { "model": "marincloud:block/greatest_works_of_art", "y": 90 }
+    }
+}
